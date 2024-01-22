@@ -1,6 +1,6 @@
-# MarvelWebPage
+# Marvel WebPage Clone
 
-This website is inspired from official site of Marvel . I created this website with my classmates as End Semester Project in 2nd Year . It includes a secure login/signup system, powered by a local XAMPP server database.
+This website is inspired by the official site of Marvel. I created this website with my classmates as End Semester Project in 2nd Year. It includes a secure login/signup system, powered by a local XAMPP server database.
 
 Certainly, I can provide you with a basic guide on how to set up a database using XAMPP for your project. Keep in mind that XAMPP configurations may change over time, so it's always a good idea to consult the official documentation or adjust these steps based on your specific XAMPP version. Here's a general guide:
 
